@@ -243,7 +243,7 @@ int main(int argc, char** argv){
     cout << "My Solution took: " << time << "ms" << endl;
     
     // print out the clique that was found
-    cout << ans.size() << endl;
+    cout << "Clique of size: "<<ans.size() << endl;
     for (auto x : ans) cout << x.first << " ";
     cout << endl;
 
