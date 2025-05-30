@@ -39,7 +39,7 @@ g++ -std=c++11 BruteForce.cpp
 ```
 
 ## Heuristic Compiling
-For this prgram, you can compile it with graphs up to around `5000` vertices because it creates a whole compliment of the original matrix. Which takes up storage and `O(n^2)` time along with solving for an estimate of the vertex cover problem to then the independet set which yeilds a clique in the original matrix.
+For this prgram, you can compile it with super large graphs up to around `20,000` vertices because it creates a whole compliment of the original matrix. Which takes up storage and `O(n^2)` time along with solving for an estimate of the vertex cover problem to then the independet set which yeilds a clique in the original matrix.
 
 Once you have your input graph file, all that needs to be dones is compile the program with `C++11` because it uses functionality that earlier versions of C++ doesn't support. You also need to execute the program using `./a.out` along with the name of your input graph file as the command line argument. An example of this is shown below:
 ```
