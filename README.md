@@ -1,7 +1,7 @@
 # Max Clique Algorithms
 
 ## What is a Maximum Clique?
-A maximum clique is a the biggest subset of vertices in a graph that are fully connected. Meaning that each vertice has edges to every other veertice within that subset. For more about the Maximum Clique Problem, click [here.](https://en.wikipedia.org/wiki/Clique_problem)
+A maximum clique is the biggest subset of vertices in a graph that are fully connected. Meaning that each vertice has edges to every other veertice within that subset. For more about the Maximum Clique Problem, click [here.](https://en.wikipedia.org/wiki/Clique_problem)
 
 ## Input Graph Structure
 The structure of the graphs being read into all three aglorithms consist of a diagonal matrix with each line starting with the vertice's number. An example of this can be seen below:
