@@ -24,7 +24,7 @@ Within each algorithm, there's a function that reads in the diagonal matrix and 
 1 1 1 0
 ```
 
-For instance, in the final matrix above the 4th vertice has an existing edge with all the other vertices but of course not with itself.
+For instance, in the final matrix above, the 4th vertice has an existing edge with all the other vertices but of course not with itself.
 
 When making an input graph, make sure you lable the file as an adjacency matrix file: 
 ```example.adjmat```
